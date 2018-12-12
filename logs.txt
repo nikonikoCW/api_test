@@ -1,0 +1,26 @@
+
+Wed Dec 12 09:22:37 2018
+http://192.168.1.101:49977/api/Log/LogInfosFromPagination     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Users/UsersFromId     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Users/UsersFromId?{'id':'1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Users/UsersFromPagination     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Users/Add     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Users/Update     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Users/Update?{'userName':'test1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Users/Remove     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Users/Remove?{'userName':'test1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Users/RemoveMultiple     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Roles/RoleFromPagination     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Roles/RemoveRole     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Roles/RemoveRole?{'roleName':'test1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Roles/RemoveMultiple     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Roles/AddRole     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Roles/FindRole     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Roles/FindRole?{'roleName':'test1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Roles/UpdateRole     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Roles/UpdateRole?{'roleName':'test1'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/QueryUpdate/QueryLast     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/QueryUpdate/QueryLast?{'timeRange':'timeRange'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/QueryUpdate/QueryRange     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Push/PushData     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Push/PushDatas     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Temlate/TemlatesFromId     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Temlate/TemlatesFromId?{'id':256}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Temlate/TemlatesFromName     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Temlate/TemlatesFromName?{'name':'name'}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Temlate/TemlatesFromPagination     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Temlate/Add     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
+http://192.168.1.101:49977/api/Temlate/Update     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Temlate/Update?{'id':id}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Temlate/Remove     404massage{"Message":"找不到与请求 URI“http://192.168.1.101:49977/api/Temlate/Remove?{'id':id}”匹配的 HTTP 资源。"}
+http://192.168.1.101:49977/api/Temlate/RemoveMultiple     415massage{"Message":"请求包含实体主体，但不包含 Content-Type 标头。此资源不支持推断的媒体类型“application/octet-stream”。"}
